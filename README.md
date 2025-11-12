@@ -1,4 +1,4 @@
-# MLOps Projects Repository
+# MLOps Projects Repository..
 
 This repository contains example projects and supporting files used for learning and experimenting with MLOps and LLMops workflows. The codebase includes simple Flask apps and templates that demonstrate how to serve models or model-related tooling as lightweight web services.
 
